@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/animated-portfolio-3js/static/css/main.c4ba1731.css",
-    "main.js": "/animated-portfolio-3js/static/js/main.6ea68194.js",
+    "main.css": "/animated-portfolio-3js/static/css/main.6ea1cdd1.css",
+    "main.js": "/animated-portfolio-3js/static/js/main.ada541f5.js",
     "static/media/tripguide.png": "/animated-portfolio-3js/static/media/tripguide.991986c795ea140ba063.png",
     "static/media/herobg.png": "/animated-portfolio-3js/static/media/herobg.ad33add2430e34307c33.png",
     "static/media/carrent.png": "/animated-portfolio-3js/static/media/carrent.6b1e855ede285c40b77f.png",
@@ -16,11 +16,11 @@
     "static/media/menu.svg": "/animated-portfolio-3js/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/animated-portfolio-3js/index.html",
     "static/media/threejs.svg": "/animated-portfolio-3js/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
-    "main.c4ba1731.css.map": "/animated-portfolio-3js/static/css/main.c4ba1731.css.map",
-    "main.6ea68194.js.map": "/animated-portfolio-3js/static/js/main.6ea68194.js.map"
+    "main.6ea1cdd1.css.map": "/animated-portfolio-3js/static/css/main.6ea1cdd1.css.map",
+    "main.ada541f5.js.map": "/animated-portfolio-3js/static/js/main.ada541f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4ba1731.css",
-    "static/js/main.6ea68194.js"
+    "static/css/main.6ea1cdd1.css",
+    "static/js/main.ada541f5.js"
   ]
 }
